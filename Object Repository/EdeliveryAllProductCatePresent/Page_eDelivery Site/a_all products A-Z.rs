@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_all products A-Z</name>
+   <tag></tag>
+   <elementGuidId>5f49ef3a-1a16-42a5-a5e1-79b8c08fe7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchContainer']/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e976e17-def2-4940-8dea-b67f317caa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/storefront/aTozProductListing.ep?cID=200360</value>
+      <webElementGuid>036509ef-4712-43c4-a600-11eb4d066be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>all products A-Z</value>
+      <webElementGuid>dbb4e350-de40-448b-87d2-8b3cd86f212e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchContainer&quot;)/div[2]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>b35ac1ea-380e-4007-b63d-c2577c42f336</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchContainer']/div[2]/ul/li/a</value>
+      <webElementGuid>449d04e3-b4e5-4307-ac2c-3cc76d547d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'all products A-Z')]</value>
+      <webElementGuid>c4854541-e509-424d-b236-457eb36daa82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social'])[1]/following::a[1]</value>
+      <webElementGuid>ab949a3d-9791-4eea-b3f8-48c54b2ee645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Processing'])[1]/following::a[2]</value>
+      <webElementGuid>9be7cbf3-bbf5-4b0e-8a24-5067200e8d7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to the TIBCO Software Product eDelivery Site'])[1]/preceding::a[1]</value>
+      <webElementGuid>c887a44d-db5e-4ab4-bda1-710ac2d38e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Products'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1394d62-19fa-4c93-be28-40978fa11dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='all products A-Z']/parent::*</value>
+      <webElementGuid>7ef7c84d-7057-446f-9f8e-c0ea3c5ef627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/storefront/aTozProductListing.ep?cID=200360')]</value>
+      <webElementGuid>c37bf00a-5bc1-4b2c-a773-7a0b5c87b945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>2382b1c2-1107-4936-9bef-c8b38a417795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/storefront/aTozProductListing.ep?cID=200360' and (text() = 'all products A-Z' or . = 'all products A-Z')]</value>
+      <webElementGuid>99b9ddf8-0f1e-4c72-8389-02a128ebbd15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

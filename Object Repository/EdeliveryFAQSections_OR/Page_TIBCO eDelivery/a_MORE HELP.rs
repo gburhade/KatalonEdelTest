@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MORE HELP</name>
+   <tag></tag>
+   <elementGuidId>1478caac-fa13-49ef-8803-b6d95443a10d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dk']/li[5]/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d296030-e23e-4aac-b16f-cd0c99fc40ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#misc</value>
+      <webElementGuid>ec7f11ce-53b9-4c18-9900-eec34496b64f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MORE HELP</value>
+      <webElementGuid>f04b72b3-ad03-419b-aecf-e317671cb1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dk&quot;)/li[5]/h3[1]/a[1]</value>
+      <webElementGuid>7ed11d5d-e2fe-40a2-8666-39b842ec23b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dk']/li[5]/h3/a</value>
+      <webElementGuid>40e35b30-6d4c-46b2-94dc-7dfcf01ac20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MORE HELP')]</value>
+      <webElementGuid>a9d3c27d-b84f-4242-9e86-44d3cce58d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER MANAGEMENT'])[1]/following::a[1]</value>
+      <webElementGuid>a734d555-4c68-4e7e-9b03-fc2d1bac52e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT DOWNLOADS - Troubleshooting'])[1]/following::a[2]</value>
+      <webElementGuid>e63dd99e-41c7-4c24-8ea4-599fc3df9b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT ACCESS'])[2]/preceding::a[1]</value>
+      <webElementGuid>693c44c9-f4c1-4a2f-beaa-18bbac174992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I need a special account to use TIBCO eDelivery?'])[1]/preceding::a[2]</value>
+      <webElementGuid>b834cb1f-fa7b-479d-823d-63be739d8d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MORE HELP']/parent::*</value>
+      <webElementGuid>77a41971-0355-4d75-b792-83c557d9e112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#misc')]</value>
+      <webElementGuid>8145676b-ae1d-4ea4-9127-9b057cb8d688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/h3/a</value>
+      <webElementGuid>4527f771-62bb-434c-92fc-eb1d9504c771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#misc' and (text() = 'MORE HELP' or . = 'MORE HELP')]</value>
+      <webElementGuid>11ab4879-d08c-4995-bdc2-08ad98ad0816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

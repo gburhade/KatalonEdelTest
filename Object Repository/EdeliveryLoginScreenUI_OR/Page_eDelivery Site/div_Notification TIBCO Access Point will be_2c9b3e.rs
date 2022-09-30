@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Notification TIBCO Access Point will be_2c9b3e</name>
+   <tag></tag>
+   <elementGuidId>f88ccdef-dba3-40e6-a9fa-11b08ff36814</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.notification-banner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainer']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>841b0cbb-d5d1-4a0c-b4c2-cb3106bca158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-banner</value>
+      <webElementGuid>f8dddbcb-8053-4857-8a4e-74c403c28c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Notification: TIBCO Access Point will be intermittently unavailable for about   1 hour 15 minutes between 4:00 AM - 6:30 AM PDT on Wednesday, June 09, 2021 for System Maintenance. </value>
+      <webElementGuid>086bf115-36aa-43d6-b7e5-bbd33cd2e597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;notification-banner&quot;]</value>
+      <webElementGuid>2c153d15-720e-4f49-8d28-c425ccf992c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div</value>
+      <webElementGuid>afce4013-12ce-400f-b669-d544b75438a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>3b1a467a-b89d-4358-b46d-af729312ce3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Notification: TIBCO Access Point will be intermittently unavailable for about   1 hour 15 minutes between 4:00 AM - 6:30 AM PDT on Wednesday, June 09, 2021 for System Maintenance. ' or . = 'Notification: TIBCO Access Point will be intermittently unavailable for about   1 hour 15 minutes between 4:00 AM - 6:30 AM PDT on Wednesday, June 09, 2021 for System Maintenance. ')]</value>
+      <webElementGuid>45c54676-bf67-4b8d-adff-4bd77f2243b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

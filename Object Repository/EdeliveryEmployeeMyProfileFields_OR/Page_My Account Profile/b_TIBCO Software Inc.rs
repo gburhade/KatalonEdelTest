@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_TIBCO Software Inc</name>
+   <tag></tag>
+   <elementGuidId>9effdcdd-1ba9-4450-aad9-9f0b1b4c38f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myProfileDiv']/table/tbody/tr[5]/td[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>366ae1d2-e4b5-4b45-8e6f-9dc1e3ce48b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TIBCO Software Inc.</value>
+      <webElementGuid>d06e8b7a-9345-4cc1-96ec-1ba274738e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myProfileDiv&quot;)/table[@class=&quot;personalinfo&quot;]/tbody[1]/tr[5]/td[2]/b[1]</value>
+      <webElementGuid>a08aac6e-ac7d-4444-b4a9-ae3b69c98603</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myProfileDiv']/table/tbody/tr[5]/td[2]/b</value>
+      <webElementGuid>8820a6b1-a260-4d74-af0f-99547e41abfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company:'])[1]/following::b[1]</value>
+      <webElementGuid>a5c724c9-ae9e-47a0-b534-4893f24f1ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[1]/following::b[1]</value>
+      <webElementGuid>3f8a0d79-620c-44d5-aa89-851ff23511a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Status:'])[1]/preceding::b[1]</value>
+      <webElementGuid>696f9577-7db9-46c1-b636-f9622a75a101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::b[1]</value>
+      <webElementGuid>26a74269-e065-40e1-9d53-22813e722aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TIBCO Software Inc.']/parent::*</value>
+      <webElementGuid>650d48a0-9e2f-4f24-83ce-c788cba35ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/b</value>
+      <webElementGuid>8c3104cb-6243-4eb1-a99a-695a64c4af07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'TIBCO Software Inc.' or . = 'TIBCO Software Inc.')]</value>
+      <webElementGuid>b44cec46-8ce7-4063-ac51-5d27692911ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

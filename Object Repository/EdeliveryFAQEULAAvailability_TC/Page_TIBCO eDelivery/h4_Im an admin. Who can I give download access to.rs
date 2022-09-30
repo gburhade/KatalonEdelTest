@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Im an admin. Who can I give download access to</name>
+   <tag></tag>
+   <elementGuidId>27adc74c-5e53-4658-aa02-1e97cf3c4289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#actAccess0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='actAccess0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>51c996b2-dd60-4dc7-b9c1-d954995252f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>actAccess0</value>
+      <webElementGuid>9bd50014-c8e0-4c86-a022-20094f4ff632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I’m an admin. Who can I give download access to?</value>
+      <webElementGuid>f08503f6-14bf-4c27-8dd4-cbc1ec26d3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;actAccess0&quot;)</value>
+      <webElementGuid>7c1dba29-86f2-4d01-aa5d-c67979b230a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h4[@id='actAccess0']</value>
+      <webElementGuid>233c4e94-44c4-4657-8648-471f70dfa375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bodyFAQRightContainer']/ul/li[5]/h4</value>
+      <webElementGuid>4f10c6e0-6d73-49f0-a6d9-f6d59de221aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Will my eDelivery session time out if I’m inactive?'])[1]/following::h4[1]</value>
+      <webElementGuid>3c2a9f2c-d04e-4c49-9150-a2ecbea23d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need help with sign-in?'])[2]/following::h4[2]</value>
+      <webElementGuid>35a90057-8ff0-410a-9875-a47b81210421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EULA'])[1]/preceding::h4[1]</value>
+      <webElementGuid>51e758aa-acb2-42e0-bd0b-a6bbd738646f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do I need to enable cookies to use TIBCO eDelivery?'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4923edb3-b76a-439c-99bf-762aa749d1d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I’m an admin. Who can I give download access to?']/parent::*</value>
+      <webElementGuid>1dde639e-b326-47f8-b1c7-321a1a381485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/h4</value>
+      <webElementGuid>b1eac3ee-5106-4e77-b6d1-0dbcab9729cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[@id = 'actAccess0' and (text() = 'I’m an admin. Who can I give download access to?' or . = 'I’m an admin. Who can I give download access to?')]</value>
+      <webElementGuid>b24b21c5-4e2f-4166-aa2d-589c04185d3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

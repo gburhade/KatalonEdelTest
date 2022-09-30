@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PRODUCT DOWNLOADS - Troubleshooting</name>
+   <tag></tag>
+   <elementGuidId>162be7fe-ef9c-4cba-b4df-ec79610868cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='dk']/li[3]/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>423b09c6-ed36-4a76-a3bf-fbdf67cfdc41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#dwnHelpT</value>
+      <webElementGuid>ecefbf1c-332a-4e4d-ba5d-17f4ef686de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRODUCT DOWNLOADS - Troubleshooting</value>
+      <webElementGuid>fb9f56b3-9b7c-444d-a895-0176f0c91230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dk&quot;)/li[3]/h3[1]/a[1]</value>
+      <webElementGuid>a60210a6-b302-4a9b-8462-0bf8ad5f8f4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dk']/li[3]/h3/a</value>
+      <webElementGuid>c1920e1c-acb1-4f1f-be6b-ed6b660680d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PRODUCT DOWNLOADS - Troubleshooting')]</value>
+      <webElementGuid>e25a8aab-b7c4-4ed8-b153-38ac1ab471ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT DOWNLOADS - General'])[1]/following::a[1]</value>
+      <webElementGuid>87eb0647-a94f-4b8d-933d-74d13aaa6824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCOUNT ACCESS'])[1]/following::a[6]</value>
+      <webElementGuid>9de66ec8-11e3-42a5-9f06-5c0be6f6529a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER MANAGEMENT'])[1]/preceding::a[1]</value>
+      <webElementGuid>babcbca3-c87c-404b-a23b-b0a5779ba087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MORE HELP'])[1]/preceding::a[2]</value>
+      <webElementGuid>110ff088-5ba8-494c-bf98-3dc857a2b758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PRODUCT DOWNLOADS - Troubleshooting']/parent::*</value>
+      <webElementGuid>0d7700ba-de8e-4e0e-a2e4-47c2e7ffc982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#dwnHelpT')]</value>
+      <webElementGuid>de572e27-5da3-44d5-ae59-3e7cbde698b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/h3/a</value>
+      <webElementGuid>a344ee80-8145-4791-a9ee-87f7d319306f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#dwnHelpT' and (text() = 'PRODUCT DOWNLOADS - Troubleshooting' or . = 'PRODUCT DOWNLOADS - Troubleshooting')]</value>
+      <webElementGuid>7a8a0cd6-3ffb-4181-acfa-ab93ff01de5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
